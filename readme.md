@@ -36,3 +36,7 @@ or
 (tests/unit/SourceDataTest.php)
 
 ```docker-compose exec php php ./vendor/bin/phpunit```
+
+note: Might need to change permissions of /writable folder
+
+```chmod -R 777 writable``` 
