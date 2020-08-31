@@ -1,4 +1,4 @@
-**Test task of querying data from large dataset using CodeIgniter4 framework**
+**Example of querying data from large dataset using CodeIgniter4 framework**
 
 1) Start up
 (Nginx, PHP 7.4, MySQL 5.7)
